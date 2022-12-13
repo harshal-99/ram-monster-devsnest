@@ -1,0 +1,2 @@
+GET http://localhost:3000/api/products?name=Gigabyt&channelType=single&capacity=16&ddr=4&clockSpeed=3200
+Accept: application/json
